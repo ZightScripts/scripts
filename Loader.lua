@@ -1,5 +1,3 @@
-task.wait(20) -- Taskwait to ensure it auto-executes.
-
 -- GLOBAL ANTIAFK
 loadstring(game:HttpGet('https://pastebin.com/raw/XniN0RP9'))()
 
