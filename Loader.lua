@@ -1,7 +1,7 @@
 task.wait(20) -- Taskwait to ensure it auto-executes.
 
 local games = {
-    [{7560156054}] = "https://raw.githubusercontent.com/ZightScripts/zightscripts/main/ClickerSim.lua",
+    [{7560156054}] = "https://raw.githubusercontent.com/ZightScripts/scripts/main/ClickerSim.lua",
     [{8982709021}] = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/YouTube%20Life/Auto%20Farm.lua",
     [{537413528}] = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Build%20A%20Boat%20For%20Treasure/Script.lua",
     [{3101667897}] = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Legends%20Of%20Speed/Script.lua",
