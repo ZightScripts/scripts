@@ -57,7 +57,7 @@ end
 
 
 -- Webhook for SERVER 1
-getgenv().webhook = "https://discord.com/api/webhooks/1027542950089076826/Gc5tWYVx3CJG_i_UssEP3tOuS5onKLTx5z048SVKyVT0DyitTlCIknX817qG2Wg7Iqh4"
+getgenv().webhook = "https://discord.com/api/webhooks/1092986980192763984/CEwmCPrNADQxMtMhrzED6GHHfbXebu_e1730YVuAfVljlaphdXOMhqik112wxq5LMMGa"
 local HttpService = game:GetService("HttpService")
 local Player = game:GetService("Players").LocalPlayer
 local FunctionModule = require(game:GetService("ReplicatedStorage").FunctionsModule)
