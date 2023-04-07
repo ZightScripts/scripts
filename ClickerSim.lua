@@ -137,7 +137,7 @@ while true do
     local args = {
         [1] = "Client",
         [2] = "PurchaseEgg2",
-        [3] = "St. Patrick's", -- CHANGE THIS TO EGG NAME AND THEN INJECT IT WILL HATCH THE EGG.
+        [3] = "Robot", -- CHANGE THIS TO EGG NAME AND THEN INJECT IT WILL HATCH THE EGG.
         [4] = true,
         [5] = true,
         [7] = false,
