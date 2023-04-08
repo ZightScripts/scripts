@@ -137,7 +137,7 @@ while true do
     local args = {
         [1] = "Client",
         [2] = "PurchaseEgg2",
-        [3] = "Robot", -- CHANGE THIS TO EGG NAME AND THEN INJECT IT WILL HATCH THE EGG.
+        [3] = "Chemical", -- CHANGE THIS TO EGG NAME AND THEN INJECT IT WILL HATCH THE EGG.
         [4] = true,
         [5] = true,
         [7] = false,
@@ -150,7 +150,7 @@ while true do
     
     end
 
-
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-20014.1152, 1990.87463, -74.4970703, -0.325602531, 0, -0.945506752, 0, 1, 0, 0.945506752, 0, -0.325602531)
 
 -- NEW ALL PET TRADE USES NEW CLIENT TO SERVER EVENT
 
