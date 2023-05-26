@@ -2,3 +2,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-
 ---key from https://discord.gg/u7JNWQcgsU
 
 loadstring(game:HttpGet('https://pastebin.com/raw/XniN0RP9'))()
+
+
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a82cd5447cbbc4c7be0e8db405555787.lua"))()
