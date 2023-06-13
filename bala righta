@@ -1,0 +1,24 @@
+getgenv().Config = {
+    Mine = {
+        Areas = {
+            MysticMine = true,
+            CyberCavern = false
+        },
+        Chests = {
+            MysticMineChest = true,
+            CyberCavernChest = true
+        }
+    },
+    Fruits = {
+        FarmFruits = true,
+    },
+    Webhooks = {
+        SendNotifications = true,
+        Webhook = "https://discord.com/api/webhooks/1118108479828275211/i4liyBvhhTsJPlFjmu3_kisiFWjxetqdUzuuA1qwdNOoF8kSm7B-41dDPlEcUvwJaajg"
+    },
+    Misc = {
+        ServerHop = true,
+        Disable3DRendering = true
+    }
+}
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/c74cd38443b5d8e682d4bcd375609834.lua"))()
