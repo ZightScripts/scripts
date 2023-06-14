@@ -17,7 +17,7 @@ getgenv().Config = {
         Webhook = "https://discord.com/api/webhooks/1118108479828275211/i4liyBvhhTsJPlFjmu3_kisiFWjxetqdUzuuA1qwdNOoF8kSm7B-41dDPlEcUvwJaajg"
     },
     Misc = {
-        ServerHop = false,
+        ServerHop = true,
         Disable3DRendering = true
     }
 }
